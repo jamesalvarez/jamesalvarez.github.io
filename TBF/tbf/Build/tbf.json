@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TBF",
+"productVersion": "1.0",
+"dataUrl": "tbf.data.unityweb",
+"wasmCodeUrl": "tbf.wasm.code.unityweb",
+"wasmFrameworkUrl": "tbf.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
